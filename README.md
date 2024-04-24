@@ -1,6 +1,6 @@
-# first_app
+# Hello World
 
-A new Flutter project.
+This is a simple dice roller. Just press the button to reroll the dice!
 
 ## Getting Started
 
